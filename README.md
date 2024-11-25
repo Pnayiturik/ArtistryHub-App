@@ -1,1 +1,1 @@
-# ArtistryHub-App
+# ArtistryHub
